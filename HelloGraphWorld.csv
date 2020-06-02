@@ -1,4 +1,4 @@
-to,from
+from,to
 user_intent,query
 user_intent,clicks
 query,scores
