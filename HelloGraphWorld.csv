@@ -1,0 +1,15 @@
+to,from
+user_intent,query
+user_intent,clicks
+query,scores
+query,ads
+query,bids
+scores,slate
+scores, prices
+ads,prices
+bids,slate
+bids,prices
+clicks,revenue
+prices,revenue
+ad_inventory,ads
+ad_inventory,bids
