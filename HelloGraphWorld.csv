@@ -10,7 +10,8 @@ ads,scores
 ads,prices
 bids,slate
 bids,prices
-clicks,revenue
+slate,clicks
 prices,revenue
+clicks,revenue
 ad_inventory,ads
 ad_inventory,bids
