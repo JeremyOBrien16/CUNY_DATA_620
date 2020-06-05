@@ -5,7 +5,7 @@ query,scores
 query,ads
 query,bids
 scores,slate
-scores, prices
+scores,prices
 ads,scores
 ads,prices
 bids,slate
